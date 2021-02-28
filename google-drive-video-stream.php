@@ -1,4 +1,3 @@
-
 <?php
 
 /*
@@ -42,7 +41,7 @@ if(!empty($_GET['key'])) {
     ob_get_clean();
     header("Content-Type: video/mp4");
     header("Cache-Control: max-age=2592000, public");
-	  echo stream_get_contents($stream);
+    echo stream_get_contents($stream);
 
     fclose($stream);
     
