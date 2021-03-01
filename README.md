@@ -6,7 +6,6 @@ Usage / Call:
 
 ```
   https://host/dir/google-drive-video-stream.php?key=<google-video-key>
-  
 ```
 
 **Example:** `https://host/dir/google-drive-video-stream.php?key=0B6b_K8Xv-BAIZVVhOUViZWRIaXc`
