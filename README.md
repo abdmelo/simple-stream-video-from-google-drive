@@ -1,8 +1,8 @@
 # Stream video from Google Drive.
 
-A simple program (with clean code) to stream videos stored on Google Drive.
+#### A simple program (with clean code) to stream videos stored on Google Drive.
 
-Usage / Call:
+### Usage / Call:
 
 ```
   https://host/dir/google-drive-video-stream.php?key=<google-video-key>
