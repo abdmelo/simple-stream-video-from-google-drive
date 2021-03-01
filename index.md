@@ -1,7 +1,15 @@
-## Stream video from Google Drive
+## Stream video from Google Drive.
 
+#### A simple program (with clean code) to stream videos stored on Google Drive.
 
+### Usage / Call:
 
-### Coming soon
+```
 
-I'm still organizing the files. As soon as possible they will be made available here.
+https://host/dir/google-drive-video-stream.php?key=<google-video-key>
+
+```
+
+**Example:** `https://host/dir/google-drive-video-stream.php?key=0B6b_K8Xv-BAIZVVhOUViZWRIaXc`
+
+_**Note:**_ tested with PHP Version 5.6.
